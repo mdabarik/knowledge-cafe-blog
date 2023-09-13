@@ -7,13 +7,13 @@ import './App.css'
 
 function App() {
   return (
-    <>
+    <div className='container mx-auto'>
       <Header></Header>
       <div className='md:flex'>
         <Blogs></Blogs>
         <Bookmarks></Bookmarks>
       </div>
-    </>
+    </div>
   )
 }
 
