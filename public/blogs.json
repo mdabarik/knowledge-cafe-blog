@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1001,
+        "cover": "https://i.ibb.co/FV247vr/2.png",
+        "title": "The Mysterious Key",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/RYjnbhH/profile.png",
+        "postDate": "2023-09-12",
+        "reading_time": 30,
+        "hash_tag": "#MysteryNovel"
+    },
+    {
+        "id": 2002,
+        "cover": "https://i.ibb.co/FV247vr/2.png",
+        "title": "Lost in the Woods",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/KDW8PP3/girl2.jpg",
+        "postDate": "2023-09-10",
+        "reading_time": 40,
+        "hash_tag": "#AdventureStory"
+    },
+    {
+        "id": 3003,
+        "cover": "https://i.ibb.co/FV247vr/2.png",
+        "title": "Love in Paris",
+        "author": "Ella Brown",
+        "author_img": "https://i.ibb.co/8MMtp1z/girl1.jpg",
+        "postDate": "2023-09-08",
+        "reading_time": 25,
+        "hash_tag": "#RomanceNovel"
+    },
+    {
+        "id": 4004,
+        "cover": "https://i.ibb.co/FV247vr/2.png",
+        "title": "The Time Traveler's Diary",
+        "author": "Robert Davis",
+        "author_img": "https://i.ibb.co/dkchTGN/boy2.jpg",
+        "postDate": "2023-09-06",
+        "reading_time": 35,
+        "hash_tag": "#SciFiAdventure"
+    },
+    {
+        "id": 5005,
+        "cover": "https://i.ibb.co/FV247vr/2.png",
+        "title": "Hidden Treasures",
+        "author": "Lily White",
+        "author_img": "https://i.ibb.co/RyZ21Zp/boy1.png",
+        "postDate": "2023-09-04",
+        "reading_time": 20,
+        "hash_tag": "#TreasureHunt"
+    }
+]
